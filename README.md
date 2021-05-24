@@ -1,4 +1,4 @@
-###京东618活动开始了，先手动做任务，坐等大佬更新脚本！(๑•̀ㅂ•́)و✧
+### 京东618活动开始了，先手动做任务，坐等大佬更新脚本！(๑•̀ㅂ•́)و✧
 ## 注意！原来使用zero205/JD仓库的用户可不用重新创建仓库，替换原脚本的代码即可同步本仓库
 * 1.打开自己的仓库，找到syncGit.yml文件打开(路径为：.github / workflows / syncGit.yml)，点击右上角铅笔图标  
 * 2.[点此打开](https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD/main/.github/workflows/syncGit.yml)复制全部代码替换原代码  
