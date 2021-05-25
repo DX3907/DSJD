@@ -42,7 +42,7 @@ jobs:
           python3 sjys.py
       - name: '运行 【京喜工厂】'
         run: |
-          curl https://raw.githubusercontent.com/1908002701/JD/main/jd_dreamFactory.js -o jd_dreamFactory.js
+          curl https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_dreamFactory.js -o jd_dreamFactory.js
           node jd_dreamFactory.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
